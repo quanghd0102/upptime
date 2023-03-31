@@ -18,14 +18,13 @@ status-website:
   cname: uptime.quanghd.me
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "The open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data. No server required — just GitHub Actions, Issues, and Pages.
+  name: QuangHD's Upptime
+  introTitle: "The website uptime monitor and status page."
+  introMessage: This is a status page which uses **real-time** data. No server required — just GitHub Actions, Issues, and Pages.
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
