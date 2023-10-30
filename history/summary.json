@@ -4,18 +4,20 @@
     "url": "https://quanghd.me",
     "icon": "https://icons.duckduckgo.com/ip3/quanghd.me.ico",
     "slug": "quang-hd-s-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 172,
-    "timeDay": 118,
-    "timeWeek": 152,
-    "timeMonth": 145,
+    "timeDay": 105,
+    "timeWeek": 145,
+    "timeMonth": 143,
     "timeYear": 172,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-30": 0
+    }
   },
   {
     "name": "Tiến lên ghi điểm",
@@ -40,35 +42,39 @@
     "url": "https://blog.quanghd.me",
     "icon": "https://icons.duckduckgo.com/ip3/blog.quanghd.me.ico",
     "slug": "quang-hd-s-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 158,
-    "timeDay": 270,
-    "timeWeek": 155,
-    "timeMonth": 159,
+    "timeDay": 248,
+    "timeWeek": 164,
+    "timeMonth": 161,
     "timeYear": 158,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-30": 0
+    }
   },
   {
     "name": "QuangHD's donation website",
     "url": "https://donate.quanghd.me",
     "icon": "https://icons.duckduckgo.com/ip3/donate.quanghd.me.ico",
     "slug": "quang-hd-s-donation-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 156,
-    "timeDay": 103,
-    "timeWeek": 122,
-    "timeMonth": 150,
-    "timeYear": 156,
-    "dailyMinutesDown": {}
+    "time": 155,
+    "timeDay": 99,
+    "timeWeek": 119,
+    "timeMonth": 148,
+    "timeYear": 155,
+    "dailyMinutesDown": {
+      "2023-10-30": 0
+    }
   }
 ]
