@@ -4,19 +4,19 @@
     "url": "https://quanghd.me",
     "icon": "https://icons.duckduckgo.com/ip3/quanghd.me.ico",
     "slug": "quang-hd-s-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 172,
-    "timeDay": 105,
-    "timeWeek": 145,
+    "timeDay": 114,
+    "timeWeek": 143,
     "timeMonth": 143,
     "timeYear": 172,
     "dailyMinutesDown": {
-      "2023-10-30": 0
+      "2023-10-30": 16
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://blog.quanghd.me",
     "icon": "https://icons.duckduckgo.com/ip3/blog.quanghd.me.ico",
     "slug": "quang-hd-s-blog",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 158,
-    "timeDay": 248,
-    "timeWeek": 164,
-    "timeMonth": 161,
-    "timeYear": 158,
+    "time": 159,
+    "timeDay": 247,
+    "timeWeek": 173,
+    "timeMonth": 164,
+    "timeYear": 159,
     "dailyMinutesDown": {
-      "2023-10-30": 0
+      "2023-10-30": 16
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://donate.quanghd.me",
     "icon": "https://icons.duckduckgo.com/ip3/donate.quanghd.me.ico",
     "slug": "quang-hd-s-donation-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 155,
-    "timeDay": 99,
-    "timeWeek": 119,
-    "timeMonth": 148,
+    "timeDay": 103,
+    "timeWeek": 118,
+    "timeMonth": 147,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2023-10-30": 0
+      "2023-10-30": 16
     }
   }
 ]
