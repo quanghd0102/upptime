@@ -24,19 +24,19 @@
     "url": "http://tienlen-ghidiem.quanghd.me",
     "icon": "https://icons.duckduckgo.com/ip3/tienlen-ghidiem.quanghd.me.ico",
     "slug": "tien-len-ghi-diem",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 187,
-    "timeDay": 180,
-    "timeWeek": 180,
-    "timeMonth": 163,
+    "timeDay": 146,
+    "timeWeek": 171,
+    "timeMonth": 161,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2024-01-16": 0
+      "2024-01-16": 20
     }
   },
   {
