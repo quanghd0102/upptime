@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 203,
-    "timeDay": 226,
-    "timeWeek": 224,
-    "timeMonth": 262,
+    "timeDay": 160,
+    "timeWeek": 226,
+    "timeMonth": 259,
     "timeYear": 215,
-    "dailyMinutesDown": {
-      "2023-10-30": 16
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Tiến lên ghi điểm",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 203,
-    "timeDay": 120,
-    "timeWeek": 195,
-    "timeMonth": 232,
-    "timeYear": 208,
+    "time": 204,
+    "timeDay": 332,
+    "timeWeek": 232,
+    "timeMonth": 235,
+    "timeYear": 207,
     "dailyMinutesDown": {
       "2024-01-17": 33,
       "2024-01-16": 20
@@ -52,13 +50,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 182,
-    "timeDay": 303,
-    "timeWeek": 264,
-    "timeMonth": 227,
+    "timeDay": 225,
+    "timeWeek": 249,
+    "timeMonth": 231,
     "timeYear": 191,
-    "dailyMinutesDown": {
-      "2023-10-30": 16
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "QuangHD's donation website",
@@ -72,12 +68,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 170,
-    "timeDay": 285,
-    "timeWeek": 173,
+    "timeDay": 250,
+    "timeWeek": 168,
     "timeMonth": 208,
-    "timeYear": 175,
-    "dailyMinutesDown": {
-      "2023-10-30": 16
-    }
+    "timeYear": 176,
+    "dailyMinutesDown": {}
   }
 ]
