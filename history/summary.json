@@ -4,7 +4,7 @@
     "url": "https://quanghd.me",
     "icon": "https://icons.duckduckgo.com/ip3/quanghd.me.ico",
     "slug": "quang-hd-s-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "86.14%",
     "uptimeWeek": "98.02%",
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tienlen-ghidiem.quanghd.me.ico",
     "slug": "tien-len-ghi-diem",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "86.13%",
-    "uptimeWeek": "98.02%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.95%",
+    "uptimeDay": "67.86%",
+    "uptimeWeek": "95.41%",
+    "uptimeMonth": "98.94%",
+    "uptimeYear": "99.91%",
     "time": 218,
     "timeDay": 180,
     "timeWeek": 276,
     "timeMonth": 318,
     "timeYear": 216,
     "dailyMinutesDown": {
-      "2025-04-14": 200
+      "2025-04-14": 463
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.quanghd.me.ico",
     "slug": "quang-hd-s-blog",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "86.13%",
-    "uptimeWeek": "98.02%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.96%",
+    "uptimeDay": "67.86%",
+    "uptimeWeek": "95.41%",
+    "uptimeMonth": "98.94%",
+    "uptimeYear": "99.91%",
     "time": 203,
     "timeDay": 308,
     "timeWeek": 260,
     "timeMonth": 210,
     "timeYear": 215,
     "dailyMinutesDown": {
-      "2025-04-14": 200
+      "2025-04-14": 463
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/donate.quanghd.me.ico",
     "slug": "quang-hd-s-donation-website",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "86.13%",
-    "uptimeWeek": "98.02%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.96%",
+    "uptimeDay": "67.86%",
+    "uptimeWeek": "95.41%",
+    "uptimeMonth": "98.94%",
+    "uptimeYear": "99.91%",
     "time": 190,
     "timeDay": 890,
     "timeWeek": 328,
     "timeMonth": 221,
     "timeYear": 203,
     "dailyMinutesDown": {
-      "2025-04-14": 200
+      "2025-04-14": 463
     }
   }
 ]
