@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/quanghd.me.ico",
     "slug": "quang-hd-s-website",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "83.40%",
-    "uptimeWeek": "97.63%",
-    "uptimeMonth": "99.45%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.97%",
+    "uptimeDay": "76.33%",
+    "uptimeWeek": "96.62%",
+    "uptimeMonth": "99.22%",
+    "uptimeYear": "99.94%",
     "time": 223,
     "timeDay": 180,
     "timeWeek": 248,
     "timeMonth": 228,
-    "timeYear": 232,
+    "timeYear": 231,
     "dailyMinutesDown": {
-      "2025-04-14": 240
+      "2025-04-15": 96,
+      "2025-04-14": 246
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/tienlen-ghidiem.quanghd.me.ico",
     "slug": "tien-len-ghi-diem",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "58.14%",
-    "uptimeWeek": "94.02%",
-    "uptimeMonth": "98.62%",
-    "uptimeYear": "99.89%",
+    "uptime": "99.93%",
+    "uptimeDay": "51.08%",
+    "uptimeWeek": "93.01%",
+    "uptimeMonth": "98.39%",
+    "uptimeYear": "99.87%",
     "time": 218,
     "timeDay": 0,
     "timeWeek": 279,
     "timeMonth": 322,
     "timeYear": 216,
     "dailyMinutesDown": {
-      "2025-04-14": 603
+      "2025-04-15": 96,
+      "2025-04-14": 608
     }
   },
   {
@@ -45,18 +47,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.quanghd.me.ico",
     "slug": "quang-hd-s-blog",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "58.14%",
-    "uptimeWeek": "94.02%",
-    "uptimeMonth": "98.62%",
-    "uptimeYear": "99.89%",
+    "uptime": "99.93%",
+    "uptimeDay": "51.08%",
+    "uptimeWeek": "93.01%",
+    "uptimeMonth": "98.39%",
+    "uptimeYear": "99.87%",
     "time": 203,
     "timeDay": 0,
     "timeWeek": 244,
     "timeMonth": 209,
     "timeYear": 215,
     "dailyMinutesDown": {
-      "2025-04-14": 603
+      "2025-04-15": 96,
+      "2025-04-14": 608
     }
   },
   {
@@ -65,18 +68,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/donate.quanghd.me.ico",
     "slug": "quang-hd-s-donation-website",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "58.14%",
-    "uptimeWeek": "94.02%",
-    "uptimeMonth": "98.62%",
-    "uptimeYear": "99.89%",
+    "uptime": "99.93%",
+    "uptimeDay": "51.08%",
+    "uptimeWeek": "93.01%",
+    "uptimeMonth": "98.39%",
+    "uptimeYear": "99.87%",
     "time": 190,
     "timeDay": 0,
     "timeWeek": 344,
     "timeMonth": 219,
     "timeYear": 203,
     "dailyMinutesDown": {
-      "2025-04-14": 603
+      "2025-04-15": 96,
+      "2025-04-14": 608
     }
   }
 ]
