@@ -4,19 +4,19 @@
     "url": "https://quanghd.me",
     "icon": "https://icons.duckduckgo.com/ip3/quanghd.me.ico",
     "slug": "quang-hd-s-website",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "90.87%",
-    "uptimeWeek": "96.32%",
-    "uptimeMonth": "99.15%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "90.08%",
+    "uptimeWeek": "96.21%",
+    "uptimeMonth": "99.13%",
     "uptimeYear": "99.93%",
     "time": 223,
-    "timeDay": 115,
-    "timeWeek": 228,
-    "timeMonth": 223,
-    "timeYear": 231,
+    "timeDay": 99,
+    "timeWeek": 215,
+    "timeMonth": 219,
+    "timeYear": 230,
     "dailyMinutesDown": {
-      "2025-04-15": 126,
+      "2025-04-15": 137,
       "2025-04-14": 246
     }
   },
@@ -28,8 +28,8 @@
     "status": "down",
     "uptime": "99.81%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "80.16%",
-    "uptimeMonth": "95.44%",
+    "uptimeWeek": "80.05%",
+    "uptimeMonth": "95.41%",
     "uptimeYear": "99.62%",
     "time": 219,
     "timeDay": 0,
@@ -37,7 +37,7 @@
     "timeMonth": 329,
     "timeYear": 216,
     "dailyMinutesDown": {
-      "2025-04-15": 1391,
+      "2025-04-15": 1403,
       "2025-04-14": 608
     }
   },
@@ -49,8 +49,8 @@
     "status": "down",
     "uptime": "99.82%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "80.16%",
-    "uptimeMonth": "95.44%",
+    "uptimeWeek": "80.05%",
+    "uptimeMonth": "95.41%",
     "uptimeYear": "99.62%",
     "time": 203,
     "timeDay": 0,
@@ -58,7 +58,7 @@
     "timeMonth": 210,
     "timeYear": 215,
     "dailyMinutesDown": {
-      "2025-04-15": 1391,
+      "2025-04-15": 1403,
       "2025-04-14": 608
     }
   },
@@ -70,8 +70,8 @@
     "status": "down",
     "uptime": "99.82%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "80.16%",
-    "uptimeMonth": "95.44%",
+    "uptimeWeek": "80.05%",
+    "uptimeMonth": "95.41%",
     "uptimeYear": "99.62%",
     "time": 190,
     "timeDay": 0,
@@ -79,7 +79,7 @@
     "timeMonth": 222,
     "timeYear": 203,
     "dailyMinutesDown": {
-      "2025-04-15": 1391,
+      "2025-04-15": 1403,
       "2025-04-14": 608
     }
   }
