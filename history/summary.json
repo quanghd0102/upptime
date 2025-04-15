@@ -4,19 +4,19 @@
     "url": "https://quanghd.me",
     "icon": "https://icons.duckduckgo.com/ip3/quanghd.me.ico",
     "slug": "quang-hd-s-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "76.33%",
-    "uptimeWeek": "96.62%",
+    "uptimeDay": "76.13%",
+    "uptimeWeek": "96.59%",
     "uptimeMonth": "99.22%",
-    "uptimeYear": "99.94%",
+    "uptimeYear": "99.93%",
     "time": 223,
-    "timeDay": 180,
-    "timeWeek": 248,
-    "timeMonth": 228,
+    "timeDay": 170,
+    "timeWeek": 237,
+    "timeMonth": 225,
     "timeYear": 231,
     "dailyMinutesDown": {
-      "2025-04-15": 96,
+      "2025-04-15": 99,
       "2025-04-14": 246
     }
   },
@@ -27,8 +27,8 @@
     "slug": "tien-len-ghi-diem",
     "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "51.08%",
-    "uptimeWeek": "93.01%",
+    "uptimeDay": "50.88%",
+    "uptimeWeek": "92.98%",
     "uptimeMonth": "98.39%",
     "uptimeYear": "99.87%",
     "time": 218,
@@ -37,7 +37,7 @@
     "timeMonth": 322,
     "timeYear": 216,
     "dailyMinutesDown": {
-      "2025-04-15": 96,
+      "2025-04-15": 99,
       "2025-04-14": 608
     }
   },
@@ -48,8 +48,8 @@
     "slug": "quang-hd-s-blog",
     "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "51.08%",
-    "uptimeWeek": "93.01%",
+    "uptimeDay": "50.88%",
+    "uptimeWeek": "92.98%",
     "uptimeMonth": "98.39%",
     "uptimeYear": "99.87%",
     "time": 203,
@@ -58,7 +58,7 @@
     "timeMonth": 209,
     "timeYear": 215,
     "dailyMinutesDown": {
-      "2025-04-15": 96,
+      "2025-04-15": 99,
       "2025-04-14": 608
     }
   },
@@ -69,8 +69,8 @@
     "slug": "quang-hd-s-donation-website",
     "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "51.08%",
-    "uptimeWeek": "93.01%",
+    "uptimeDay": "50.88%",
+    "uptimeWeek": "92.98%",
     "uptimeMonth": "98.39%",
     "uptimeYear": "99.87%",
     "time": 190,
@@ -79,7 +79,7 @@
     "timeMonth": 219,
     "timeYear": 203,
     "dailyMinutesDown": {
-      "2025-04-15": 96,
+      "2025-04-15": 99,
       "2025-04-14": 608
     }
   }
