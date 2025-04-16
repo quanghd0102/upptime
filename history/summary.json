@@ -4,19 +4,19 @@
     "url": "https://quanghd.me",
     "icon": "https://icons.duckduckgo.com/ip3/quanghd.me.ico",
     "slug": "quang-hd-s-website",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "98.13%",
-    "uptimeWeek": "96.32%",
-    "uptimeMonth": "99.15%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "97.34%",
+    "uptimeWeek": "96.21%",
+    "uptimeMonth": "99.13%",
     "uptimeYear": "99.93%",
     "time": 223,
-    "timeDay": 83,
-    "timeWeek": 215,
-    "timeMonth": 219,
+    "timeDay": 93,
+    "timeWeek": 207,
+    "timeMonth": 216,
     "timeYear": 230,
     "dailyMinutesDown": {
-      "2025-04-16": 0,
+      "2025-04-16": 11,
       "2025-04-15": 126,
       "2025-04-14": 246
     }
@@ -29,8 +29,8 @@
     "status": "down",
     "uptime": "99.76%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "75.09%",
-    "uptimeMonth": "94.27%",
+    "uptimeWeek": "74.98%",
+    "uptimeMonth": "94.24%",
     "uptimeYear": "99.52%",
     "time": 219,
     "timeDay": 0,
@@ -38,7 +38,7 @@
     "timeMonth": 329,
     "timeYear": 216,
     "dailyMinutesDown": {
-      "2025-04-16": 462,
+      "2025-04-16": 474,
       "2025-04-15": 1440,
       "2025-04-14": 608
     }
@@ -51,8 +51,8 @@
     "status": "down",
     "uptime": "99.77%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "75.09%",
-    "uptimeMonth": "94.27%",
+    "uptimeWeek": "74.98%",
+    "uptimeMonth": "94.24%",
     "uptimeYear": "99.52%",
     "time": 203,
     "timeDay": 0,
@@ -60,7 +60,7 @@
     "timeMonth": 210,
     "timeYear": 215,
     "dailyMinutesDown": {
-      "2025-04-16": 462,
+      "2025-04-16": 474,
       "2025-04-15": 1440,
       "2025-04-14": 608
     }
@@ -73,8 +73,8 @@
     "status": "down",
     "uptime": "99.77%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "75.09%",
-    "uptimeMonth": "94.27%",
+    "uptimeWeek": "74.98%",
+    "uptimeMonth": "94.24%",
     "uptimeYear": "99.52%",
     "time": 190,
     "timeDay": 0,
@@ -82,7 +82,7 @@
     "timeMonth": 222,
     "timeYear": 203,
     "dailyMinutesDown": {
-      "2025-04-16": 462,
+      "2025-04-16": 474,
       "2025-04-15": 1440,
       "2025-04-14": 608
     }
