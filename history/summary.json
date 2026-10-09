@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/quanghd.me.ico",
     "slug": "quang-hd-s-website",
     "status": "up",
-    "uptime": "61.81%",
+    "uptime": "61.84%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "83.23%",
-    "uptimeMonth": "20.53%",
-    "uptimeYear": "1.60%",
-    "time": 985,
-    "timeDay": 878,
-    "timeWeek": 985,
-    "timeMonth": 985,
-    "timeYear": 985,
+    "uptimeWeek": "97.55%",
+    "uptimeMonth": "23.83%",
+    "uptimeYear": "1.87%",
+    "time": 1008,
+    "timeDay": 1167,
+    "timeWeek": 1008,
+    "timeMonth": 1008,
+    "timeYear": 1008,
     "dailyMinutesDown": {
       "2026-10-02": 542,
       "2026-10-01": 1440,
@@ -373,8 +373,7 @@
       "2025-10-13": 1440,
       "2025-10-12": 1440,
       "2025-10-11": 1440,
-      "2025-10-10": 1440,
-      "2025-10-09": 1440
+      "2025-10-10": 1440
     }
   },
   {
@@ -383,7 +382,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tienlen-ghidiem.quanghd.me.ico",
     "slug": "tien-len-ghi-diem",
     "status": "down",
-    "uptime": "57.92%",
+    "uptime": "57.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -394,7 +393,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-08": 291,
+      "2026-10-09": 295,
+      "2026-10-08": 1440,
       "2026-10-07": 1440,
       "2026-10-06": 1440,
       "2026-10-05": 1440,
@@ -757,8 +757,7 @@
       "2025-10-13": 1440,
       "2025-10-12": 1440,
       "2025-10-11": 1440,
-      "2025-10-10": 1440,
-      "2025-10-09": 1440
+      "2025-10-10": 1440
     }
   },
   {
@@ -767,7 +766,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.quanghd.me.ico",
     "slug": "quang-hd-s-blog",
     "status": "down",
-    "uptime": "58.65%",
+    "uptime": "58.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -778,7 +777,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-08": 291,
+      "2026-10-09": 295,
+      "2026-10-08": 1440,
       "2026-10-07": 1440,
       "2026-10-06": 1440,
       "2026-10-05": 1440,
@@ -1141,8 +1141,7 @@
       "2025-10-13": 1440,
       "2025-10-12": 1440,
       "2025-10-11": 1440,
-      "2025-10-10": 1440,
-      "2025-10-09": 1440
+      "2025-10-10": 1440
     }
   },
   {
@@ -1151,7 +1150,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/donate.quanghd.me.ico",
     "slug": "quang-hd-s-donation-website",
     "status": "down",
-    "uptime": "58.65%",
+    "uptime": "58.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1162,7 +1161,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-08": 291,
+      "2026-10-09": 295,
+      "2026-10-08": 1440,
       "2026-10-07": 1440,
       "2026-10-06": 1440,
       "2026-10-05": 1440,
@@ -1525,8 +1525,7 @@
       "2025-10-13": 1440,
       "2025-10-12": 1440,
       "2025-10-11": 1440,
-      "2025-10-10": 1440,
-      "2025-10-09": 1440
+      "2025-10-10": 1440
     }
   }
 ]
